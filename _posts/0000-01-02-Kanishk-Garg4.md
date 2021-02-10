@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Learning Git Flow
+Hail Dogecoin
 Use the left arrow to go back!
